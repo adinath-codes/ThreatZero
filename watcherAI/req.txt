@@ -1,0 +1,5 @@
+asyncio
+pandas
+numpy
+scikit-learn=1.7.2
+fastapi[standard]
